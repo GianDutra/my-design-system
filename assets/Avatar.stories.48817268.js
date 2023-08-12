@@ -1,0 +1,2 @@
+import{A as t}from"./index.b07e2ad1.js";import"./index.72c7f058.js";import"./iframe.138bd548.js";import"./index.786f5c44.js";import"./jsx-runtime.2c6ab2ef.js";const p={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/GianDutra.png",alt:"Gian Dutra"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},n=["Primary","WithFallback"];export{c as Primary,m as WithFallback,n as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.48817268.js.map
